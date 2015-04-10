@@ -1,5 +1,11 @@
 QjackCtl - JACK Audio Connection Kit Qt GUI Interface
 -----------------------------------------------------
+Fork of QjackCtl to hack it into a patchbay-only app with a sexier touch-friendly interface
+This fork stays in sync with upstream development.
+````
+git remote add upstream http://git.code.sf.net/p/qjackctl/code 
+````
+
 
 QjackCtl is a simple Qt application to control the JACK sound server
 (http://jackaudio.org), for the Linux Audio infrastructure.
